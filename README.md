@@ -1,5 +1,8 @@
 # ssd-pytorch
 SSD：Single-Shot MultiBox Detector Implementation of target detection model in pytoch
+## 权值文件下载
+链接：https://pan.baidu.com/s/1cJ5rFLhs9lq3VIqnjrlP8w 
+提取码：bxlv
 ## 所需环境
 torch == 1.2.0
 ## 预测步骤
